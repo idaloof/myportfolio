@@ -7,42 +7,42 @@ Template: technologies
 Technologies
 ==================
 
-<div class="subcontainer" id="CSS">
-    <img src="%base_url%/image/css.jpg" class="css_img">
+<div class="subcontainer css">
+    <img src="%base_url%/image/css.jpg" class="css-img">
     <h2 class="title2">
         <a href="technology/css">CSS</a>
     </h2>
 </div>
-<div class="subcontainer" id="Git">
-    <img src="%base_url%/image/git.jpg" class="git_img">
+<div class="subcontainer git">
+    <img src="%base_url%/image/git.jpg" class="git-img">
     <h2 class="title2">
         <a href="technology/git">Git</a>
     </h2>
 </div>
-<div class="subcontainer" id="HTML">
-    <img src="%base_url%/image/html.jpg" class="html_img">
+<div class="subcontainer html">
+    <img src="%base_url%/image/html.jpg" class="html-img">
     <h2 class="title2">
         <a href="technology/html">HTML</a>
     </h2>
 </div>
-<div class="subcontainer" id="JavaScript">
-    <img src="%base_url%/image/javascript.jpg" class="javascript_img">
+<div class="subcontainer javascript">
+    <img src="%base_url%/image/javascript.jpg" class="javascript-img">
     <h2 class="title2">
         <a href="technology/javascript">JavaScript</a>
     </h2>
 </div>
-<div class="subcontainer" id="PHP">
-    <img src="%base_url%/image/php.jpg" class="php_img">
+<div class="subcontainer php">
+    <img src="%base_url%/image/php.jpg" class="php-img">
     <h2 class="title2">
         <a href="technology/php">PHP</a>
 </div>
-<div class="subcontainer" id="Python">
-    <img src="%base_url%/image/python.jpg" class="python_img">
+<div class="subcontainer python">
+    <img src="%base_url%/image/python.jpg" class="python-img">
     <h2 class="title2">
         <a href="technology/python">Python</a>
 </div>
-<div class="subcontainer" id="SQLITE">
-    <img src="%base_url%/image/sqlite.jpg" class="sqlite_img">
+<div class="subcontainer sqlite">
+    <img src="%base_url%/image/sqlite.jpg" class="sqlite-img">
     <h2 class="title2">
         <a href="technology/sqlite">SQLITE</a>
 </div>

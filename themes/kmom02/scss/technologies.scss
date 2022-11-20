@@ -1,8 +1,8 @@
 .landingpage {
-	display: grid;
+    display: grid;
     max-width: 900px;
-	grid-template-columns: 280px 280px auto;
-	grid-template-rows: repeat(7, 100px);
+    grid-template-columns: 280px 280px auto;
+    grid-template-rows: repeat(7, 100px);
     gap: 10px;
     padding: 5px;
     margin: 0 auto 40px;
@@ -33,17 +33,18 @@
 }
 
 .subcontainer {
-    .css_img,
-    .git_img,
-    .html_img,
-    .javascript_img,
-    .php_img,
-    .python_img,
-    .sqlite_img {
+    .css-img,
+    .git-img,
+    .html-img,
+    .javascript-img,
+    .php-img,
+    .python-img,
+    .sqlite-img {
         grid-column: 1 / 2;
         grid-row: 1 / 3;
         width: 100%;
     }
+
     a {
         text-decoration: none;
     }
@@ -55,43 +56,42 @@
     }
 }
 
-#CSS {
+.css {
     grid-column: 1 / 3;
     grid-row: 2 / 4;
 }
 
-#Git {
+.git {
     grid-column: 3 / 4;
     grid-row: 2 / 4;
 }
 
-#HTML {
+.html {
     grid-column: 1 / 2;
     grid-row: 4 / 6;
 }
 
-#JavaScript {
+.javascript {
     grid-column: 2 / 3;
     grid-row: 4 / 6;
 }
 
-#PHP {
+.php {
     grid-column: 3 / 4;
     grid-row: 4 / 6;
 }
 
-#Python {
+.python {
     grid-column: 1 / 2;
     grid-row: 6 / 8;
 }
 
-#SQLITE {
+.sqlite {
     grid-column: 2 / 4;
     grid-row: 6 / 8;
 }
 
 @media screen and (max-width: 1097px) {
-    
     .landingpage {
         display: grid;
         grid-template-columns: 0.7fr;
@@ -118,37 +118,37 @@
         border: 1px solid #536d6a;
     }
 
-    #CSS {
+    .css {
         grid-column: 1 / 2;
         grid-row: 2 / 4;
     }
 
-    #Git {
+    .git {
         grid-column: 1 / 2;
         grid-row: 4 / 6;
     }
 
-    #HTML {
+    .html {
         grid-column: 1 / 2;
         grid-row: 6 / 8;
     }
 
-    #JavaScript {
+    .javascript {
         grid-column: 1 / 2;
         grid-row: 8 / 10;
     }
 
-    #PHP {
+    .php {
         grid-column: 1 / 2;
         grid-row: 10 / 12;
     }
 
-    #Python {
+    .python {
         grid-column: 1 / 2;
         grid-row: 12 / 14;
     }
 
-    #SQLITE {
+    .sqlite {
         grid-column: 1 / 2;
         grid-row: 14 / 16;
     }
