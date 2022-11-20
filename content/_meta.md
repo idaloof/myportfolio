@@ -2,10 +2,13 @@
 Logo: assets/img/web.png
 Tagline: My portfolio
 Social:
-    - title: GitHub repository.
+    - title: This websites gitHub repository.
       url: https://github.com/idaloof/myportfolio
       icon: fab fa-github
-    - title: MDN docs.
-      url: https://developer.mozilla.org/en-US/
-      icon: fa fa-code
+    - title: MDN CSS documentation
+      url: https://developer.mozilla.org/en-US/docs/Web/CSS
+      icon: fab fa-css3
+    - title: Recorded lectures 2022/2023 available on Youtube.
+      url: https://www.youtube.com/playlist?list=PLKtP9l5q3ce_WleXainMoaxfhsIBgVvQo
+      icon: fab fa-youtube
 ---

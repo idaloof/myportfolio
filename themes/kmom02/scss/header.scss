@@ -1,5 +1,6 @@
 .site-header {
     padding: 2vw;
+    font-size: 1.5vw;
 }
 
 header .site-header {
@@ -10,7 +11,7 @@ header .site-header {
 
 .logo img {
     border-radius: 10px;
-
+    max-width: 20vw;
 }
 
 .title a {
@@ -23,4 +24,16 @@ header .site-header {
 
 .nav {
     text-align: center;
+}
+
+@media screen and (max-width: 713px) {
+    .site-header {
+        font-size: 10px;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    .logo img {
+        max-width: 140px;
+    }
 }
