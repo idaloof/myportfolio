@@ -11,4 +11,10 @@ Social:
     - title: Recorded lectures 2022/2023 available on Youtube.
       url: https://www.youtube.com/playlist?list=PLKtP9l5q3ce_WleXainMoaxfhsIBgVvQo
       icon: fab fa-youtube
+    - title: Dark Mode
+      url: ?action=theme
+      icon: fas fa-moon
+    - title: Destroy Session
+      url: ?action=session_destroy
+      icon: fas fa-trash-alt
 ---
