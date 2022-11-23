@@ -1,0 +1,83 @@
+/** Typography for portfolio */
+
+
+
+/* Document */
+* {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+html {
+    font-size: 100%;
+}
+
+body {
+    color: $font-color-rest;
+    line-height: $base-line-height;
+}
+
+/* Main element */
+main {
+    max-width: 64em;
+    padding-left: 6rem;
+    padding-right: 6rem;
+}
+
+/* Paragraphs */
+p {
+    font-size: $base-font-size;
+    margin-bottom: $magic-number;
+    letter-spacing: 0.7px;
+}
+
+/* Lists */
+main {
+    ul {
+        font-size: $base-font-size;
+        margin-bottom: $magic-number;
+    }
+
+    li {
+        margin-bottom: $magic-number - 1;
+    }
+}
+
+/* Blockquote */
+blockquote {
+    font-style: italic;
+    margin-bottom: $magic-number;
+}
+
+/* Code */
+code {
+    font-family: monospace;
+    font-size: $base-font-size;
+    line-height: $base-line-height;
+    margin-bottom: $magic-number;
+}
+
+pre code {
+    line-height: $base-line-height;
+}
+
+/* Headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Footer */
+.social a {
+    font-size: 1.9em;
+}
+
+/* Responsiveness */
+@media (min-width: 64em) {
+    html {
+        font-size: 112,5%;
+    }
+}

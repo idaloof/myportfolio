@@ -1,0 +1,15 @@
+/* Style for main-attribute */
+main {
+    margin: 0 auto 40px;
+    min-height: 30em;
+}
+
+main p {
+    a {
+        color: $font-color-rest;
+    }
+
+    a:visited {
+        color: $font-color-rest;
+    }
+}

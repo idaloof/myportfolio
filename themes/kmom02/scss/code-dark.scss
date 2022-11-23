@@ -1,0 +1,33 @@
+/* Code */
+code {
+    margin: 0 0.1em;
+    padding: 0.1em 0.2em;
+    border: $border-style-code;
+    border-radius: 0.3em;
+    background: $bg-color-code;
+    color: $font-color-titles;
+}
+
+pre {
+    padding: 1em 1em;
+    border: $border-style-code;
+    border-radius: 0.3em;
+    background: $bg-color-code;
+    color: $font-color-titles;
+}
+
+pre code {
+    display: block;
+    margin: 0;
+    padding: 1.1111em 0;
+    border: 0 none;
+    background: transparent;
+    overflow-x: auto;
+}
+
+/* Responsiveness */
+@media screen and (max-width: 34.75rem) {
+    main code {
+        font-size: 2.1vmin;
+    }
+}

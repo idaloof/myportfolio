@@ -1,0 +1,27 @@
+/* Style for higher level elements */
+
+/* Mixin for width and overflow */
+@mixin width-overflow {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+/* body element */
+body {
+    @include width-overflow;
+    background: $bg-color-body;
+    clear: both;
+    min-height: 400px;
+    margin-bottom: 150px;
+}
+
+/* html element */
+html {
+    @include width-overflow;
+    background-color: $bg-color-head-foot;
+}
+
+/* images */
+img {
+    filter: grayscale(56%);
+}

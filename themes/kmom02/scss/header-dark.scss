@@ -1,0 +1,41 @@
+.site-header {
+    padding: 2vw;
+    font-size: 1.5vw;
+}
+
+header .site-header {
+    background-color: $bg-color-head-foot;
+    color: $font-color-titles;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo img {
+    border-radius: 10px;
+    max-width: 20vw;
+}
+
+.title a {
+    text-decoration: none !important;
+    color: $font-color-titles;
+}
+
+.title {
+    padding-right: 50%;
+}
+
+.nav {
+    text-align: center;
+}
+
+@media screen and (max-width: 713px) {
+    .site-header {
+        font-size: 10px;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    .logo img {
+        max-width: 140px;
+    }
+}
