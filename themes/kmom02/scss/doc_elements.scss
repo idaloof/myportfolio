@@ -9,7 +9,7 @@
 /* body element */
 body {
     @include width-overflow;
-    background: $background-alternative-color;
+    background: $bg-color-body;
     clear: both;
     min-height: 400px;
     margin-bottom: 150px;
@@ -18,5 +18,5 @@ body {
 /* html element */
 html {
     @include width-overflow;
-    background-color: $background-color;
+    background-color: $bg-color-head-foot;
 }

@@ -4,7 +4,6 @@
 
 /* Document */
 * {
-    color: $font-color;
     font-family: 'Josefin Sans', sans-serif;
 }
 
@@ -13,6 +12,7 @@ html {
 }
 
 body {
+    color: $font-color-rest;
     line-height: $base-line-height;
 }
 
@@ -72,7 +72,7 @@ h6 {
 
 /* Footer */
 .social a {
-    font-size: 1.7em;
+    font-size: 1.9em;
 }
 
 /* Responsiveness */

@@ -4,6 +4,16 @@ main {
     min-height: 30em;
 }
 
-// main img {
-//     border-radius: 50px;
+// img {
+//     filter: grayscale(56%);
 // }
+
+main {
+    a {
+        color: $font-color-rest;
+    }
+
+    a:visited {
+        color: $font-color-rest;
+    }
+}

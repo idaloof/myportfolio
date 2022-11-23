@@ -1,18 +1,20 @@
 /* Page footer */
 footer {
     padding: 1.4%;
-    background-color: $background-color;
+    background-color: $bg-color-head-foot;
     bottom: 0;
     width: 100%;
+    color: $font-color-titles;
     // overflow: auto;
     // position: fixed;
 }
 
 .social {
-    text-align: right;
+    text-align: center;
     padding-right: 2vw;
 }
 
 .social a {
     text-decoration: none;
+    color: $font-color-titles;
 }

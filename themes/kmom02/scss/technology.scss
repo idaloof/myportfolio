@@ -13,7 +13,7 @@
 }
 
 .technology-container > div:hover {
-    box-shadow: 5px 10px 8px 10px #536d6a;
+    box-shadow: $box-shadow-color;
 }
 
 .technology-container h1 {
@@ -25,18 +25,19 @@
     grid-column: 1 / 2;
     grid-row: 1 / 2;
     padding: 10px;
-    border: 2px double #536d6a;
+    border: $border-style-double-divs;
 }
 
 .technology-sidebar a {
-    text-decoration: none;
+    text-decoration: none !important;
+    color: $font-color-rest;
 }
 
 .technology-content {
     grid-column: 2 / 3;
     grid-row: 1 / 2;
     padding: 25px;
-    border: 2px double #536d6a;
+    border: $border-style-double-divs;
 }
 
 @media screen and (max-width: 767px) {
