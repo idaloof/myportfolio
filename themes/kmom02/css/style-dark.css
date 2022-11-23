@@ -6423,7 +6423,14 @@ template {
   display: none;
 }
 
-/* Variables */ /* Blockquote */
+/* Variables */
+/* BACKGROUND COLORS */
+/* BORDER STYLE */
+/* FONT COLORS */
+/* OTHER COLORS */
+/* SPACING */
+/* OBSOLETE VARIABLES */
+/* Blockquote */
 blockquote {
   margin-left: 1em;
   padding-left: 1em;
@@ -6436,14 +6443,16 @@ code {
   padding: 0.1em 0.2em;
   border: 1px solid #ccc;
   border-radius: 0.3em;
-  background: #f5f5f5;
+  background: #917971;
+  color: #212121;
 }
 
 pre {
-  padding: 0 1em;
+  padding: 1em 1em;
   border: 1px solid #ccc;
   border-radius: 0.3em;
-  background: #f5f5f5;
+  background: #917971;
+  color: #212121;
 }
 
 pre code {
@@ -6480,7 +6489,7 @@ nav ul li {
 
 nav a,
 .nav-toggle {
-  color: #333;
+  color: rgb(177, 177, 177);
 }
 
 .nav-toggle {
@@ -6507,7 +6516,8 @@ nav a,
 }
 
 header .site-header {
-  background-color: rgb(255, 228, 196);
+  background-color: #917971;
+  color: #212121;
   display: flex;
   justify-content: space-between;
 }
@@ -6519,6 +6529,7 @@ header .site-header {
 
 .title a {
   text-decoration: none !important;
+  color: #212121;
 }
 
 .title {
@@ -6542,18 +6553,20 @@ header .site-header {
 /* Page footer */
 footer {
   padding: 1.4%;
-  background-color: rgb(255, 228, 196);
+  background-color: #917971;
   bottom: 0;
   width: 100%;
+  color: #212121;
 }
 
 .social {
-  text-align: right;
+  text-align: center;
   padding-right: 2vw;
 }
 
 .social a {
   text-decoration: none;
+  color: #212121;
 }
 
 /* Style for main-attribute */
@@ -6562,10 +6575,16 @@ main {
   min-height: 30em;
 }
 
+main p a {
+  color: rgb(177, 177, 177);
+}
+main p a:visited {
+  color: rgb(177, 177, 177);
+}
+
 /** Typography for portfolio */
 /* Document */
 * {
-  color: #333;
   font-family: "Josefin Sans", sans-serif;
 }
 
@@ -6574,6 +6593,7 @@ html {
 }
 
 body {
+  color: rgb(177, 177, 177);
   line-height: 1.4;
 }
 
@@ -6630,7 +6650,7 @@ h6 {
 
 /* Footer */
 .social a {
-  font-size: 1.7em;
+  font-size: 1.9em;
 }
 
 /* Responsiveness */
@@ -6645,7 +6665,7 @@ h6 {
 body {
   max-width: 100%;
   overflow-x: hidden;
-  background: #e0fbfc;
+  background: #3A4045;
   clear: both;
   min-height: 400px;
   margin-bottom: 150px;
@@ -6655,7 +6675,12 @@ body {
 html {
   max-width: 100%;
   overflow-x: hidden;
-  background-color: rgb(255, 228, 196);
+  background-color: #917971;
+}
+
+/* images */
+img {
+  filter: grayscale(56%);
 }
 
 .landingpage {
@@ -6675,16 +6700,20 @@ html {
 
 .subcontainer {
   display: grid;
-  background-color: #bddbdc;
+  background-color: #2d2224;
   grid-template-columns: 100%;
   grid-template-rows: 84px auto;
   justify-content: center;
   overflow: hidden;
-  border: 1px solid #536d6a;
+  border: 2px solid #917971;
 }
 
 .subcontainer:hover {
-  box-shadow: 5px 10px 8px 10px #536d6a;
+  box-shadow: 5px 10px 8px 10px #292929;
+}
+
+.subcontainer h2 {
+  z-index: 1;
 }
 
 .title2 {
@@ -6705,6 +6734,7 @@ html {
 }
 .subcontainer a {
   text-decoration: none;
+  color: rgb(72, 71, 71);
 }
 .subcontainer h2 {
   text-align: center;
@@ -6764,12 +6794,12 @@ html {
   }
   .subcontainer {
     display: grid;
-    background-color: #bddbdc;
+    background-color: #2d2224;
     grid-template-columns: 100%;
     grid-template-rows: auto auto;
     justify-content: center;
     overflow: hidden;
-    border: 1px solid #536d6a;
+    border: 2px solid #917971;
   }
   .css {
     grid-column: 1/2;
@@ -6811,11 +6841,11 @@ html {
 }
 
 .technology-container > div {
-  background-color: #bddbdc;
+  background-color: #2d2224;
 }
 
 .technology-container > div:hover {
-  box-shadow: 5px 10px 8px 10px #536d6a;
+  box-shadow: 5px 10px 8px 10px #292929;
 }
 
 .technology-container h1 {
@@ -6827,18 +6857,21 @@ html {
   grid-column: 1/2;
   grid-row: 1/2;
   padding: 10px;
-  border: 2px double #536d6a;
+  border: 2px double #56362c;
 }
 
 .technology-sidebar a {
   text-decoration: none;
+  color: rgb(177, 177, 177);
+  text-decoration: underline;
 }
 
 .technology-content {
   grid-column: 2/3;
   grid-row: 1/2;
   padding: 25px;
-  border: 2px double #536d6a;
+  border: 2px double #56362c;
+  color: rgb(177, 177, 177);
 }
 
 @media screen and (max-width: 767px) {

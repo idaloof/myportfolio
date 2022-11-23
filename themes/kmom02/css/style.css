@@ -2,7 +2,7 @@
  * Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  */
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&effect=outline&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,400;1,200&display=swap");
 .fa,
 .fas,
@@ -6423,7 +6423,14 @@ template {
   display: none;
 }
 
-/* Variables */ /* Blockquote */
+/* Variables */
+/* BACKGROUND COLORS */
+/* BORDER STYLE */
+/* FONT COLORS */
+/* OTHER COLORS */
+/* SPACING */
+/* OBSOLETE COLORS */
+/* Blockquote */
 blockquote {
   margin-left: 1em;
   padding-left: 1em;
@@ -6440,7 +6447,7 @@ code {
 }
 
 pre {
-  padding: 0 1em;
+  padding: 1em 1em;
   border: 1px solid #ccc;
   border-radius: 0.3em;
   background: #f5f5f5;
@@ -6507,7 +6514,7 @@ nav a,
 }
 
 header .site-header {
-  background-color: rgb(255, 228, 196);
+  background-color: #93AB9C;
   display: flex;
   justify-content: space-between;
 }
@@ -6519,6 +6526,7 @@ header .site-header {
 
 .title a {
   text-decoration: none !important;
+  color: #333;
 }
 
 .title {
@@ -6542,18 +6550,20 @@ header .site-header {
 /* Page footer */
 footer {
   padding: 1.4%;
-  background-color: rgb(255, 228, 196);
+  background-color: #93AB9C;
   bottom: 0;
   width: 100%;
+  color: #333;
 }
 
 .social {
-  text-align: right;
+  text-align: center;
   padding-right: 2vw;
 }
 
 .social a {
   text-decoration: none;
+  color: #333;
 }
 
 /* Style for main-attribute */
@@ -6562,10 +6572,16 @@ main {
   min-height: 30em;
 }
 
+main a {
+  color: #333;
+}
+main a:visited {
+  color: #333;
+}
+
 /** Typography for portfolio */
 /* Document */
 * {
-  color: #333;
   font-family: "Josefin Sans", sans-serif;
 }
 
@@ -6574,6 +6590,7 @@ html {
 }
 
 body {
+  color: #333;
   line-height: 1.4;
 }
 
@@ -6630,7 +6647,7 @@ h6 {
 
 /* Footer */
 .social a {
-  font-size: 1.7em;
+  font-size: 1.9em;
 }
 
 /* Responsiveness */
@@ -6645,7 +6662,7 @@ h6 {
 body {
   max-width: 100%;
   overflow-x: hidden;
-  background: #e0fbfc;
+  background: #E8FFF1;
   clear: both;
   min-height: 400px;
   margin-bottom: 150px;
@@ -6655,7 +6672,7 @@ body {
 html {
   max-width: 100%;
   overflow-x: hidden;
-  background-color: rgb(255, 228, 196);
+  background-color: #93AB9C;
 }
 
 .landingpage {
@@ -6675,7 +6692,7 @@ html {
 
 .subcontainer {
   display: grid;
-  background-color: #bddbdc;
+  background-color: #F5D39D;
   grid-template-columns: 100%;
   grid-template-rows: 84px auto;
   justify-content: center;
@@ -6684,7 +6701,7 @@ html {
 }
 
 .subcontainer:hover {
-  box-shadow: 5px 10px 8px 10px #536d6a;
+  box-shadow: 5px 10px 8px 4px #A8A0A0;
 }
 
 .title2 {
@@ -6705,6 +6722,7 @@ html {
 }
 .subcontainer a {
   text-decoration: none;
+  color: #333;
 }
 .subcontainer h2 {
   text-align: center;
@@ -6764,7 +6782,7 @@ html {
   }
   .subcontainer {
     display: grid;
-    background-color: #bddbdc;
+    background-color: #F5D39D;
     grid-template-columns: 100%;
     grid-template-rows: auto auto;
     justify-content: center;
@@ -6811,11 +6829,11 @@ html {
 }
 
 .technology-container > div {
-  background-color: #bddbdc;
+  background-color: #F5D39D;
 }
 
 .technology-container > div:hover {
-  box-shadow: 5px 10px 8px 10px #536d6a;
+  box-shadow: 5px 10px 8px 4px #A8A0A0;
 }
 
 .technology-container h1 {
@@ -6831,7 +6849,8 @@ html {
 }
 
 .technology-sidebar a {
-  text-decoration: none;
+  text-decoration: none !important;
+  color: #333;
 }
 
 .technology-content {
