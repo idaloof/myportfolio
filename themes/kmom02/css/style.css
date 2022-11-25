@@ -6447,7 +6447,7 @@ code {
 }
 
 pre {
-  padding: 1em 1em;
+  padding: 1em;
   border: 1px solid #ccc;
   border-radius: 0.3em;
   background: #f5f5f5;
@@ -6514,7 +6514,7 @@ nav a,
 }
 
 header .site-header {
-  background-color: #93AB9C;
+  background-color: #93ab9c;
   display: flex;
   justify-content: space-between;
 }
@@ -6550,7 +6550,7 @@ header .site-header {
 /* Page footer */
 footer {
   padding: 1.4%;
-  background-color: #93AB9C;
+  background-color: #93ab9c;
   bottom: 0;
   width: 100%;
   color: #333;
@@ -6662,7 +6662,7 @@ h6 {
 body {
   max-width: 100%;
   overflow-x: hidden;
-  background: #E8FFF1;
+  background: #e8fff1;
   clear: both;
   min-height: 400px;
   margin-bottom: 150px;
@@ -6672,7 +6672,7 @@ body {
 html {
   max-width: 100%;
   overflow-x: hidden;
-  background-color: #93AB9C;
+  background-color: #93ab9c;
 }
 
 .landingpage {
@@ -6692,7 +6692,7 @@ html {
 
 .subcontainer {
   display: grid;
-  background-color: #F5D39D;
+  background-color: #f5d39d;
   grid-template-columns: 100%;
   grid-template-rows: 84px auto;
   justify-content: center;
@@ -6701,7 +6701,7 @@ html {
 }
 
 .subcontainer:hover {
-  box-shadow: 5px 10px 8px 4px #A8A0A0;
+  box-shadow: 5px 10px 8px 4px #a8a0a0;
 }
 
 .title2 {
@@ -6782,7 +6782,7 @@ html {
   }
   .subcontainer {
     display: grid;
-    background-color: #F5D39D;
+    background-color: #f5d39d;
     grid-template-columns: 100%;
     grid-template-rows: auto auto;
     justify-content: center;
@@ -6829,11 +6829,11 @@ html {
 }
 
 .technology-container > div {
-  background-color: #F5D39D;
+  background-color: #f5d39d;
 }
 
 .technology-container > div:hover {
-  box-shadow: 5px 10px 8px 4px #A8A0A0;
+  box-shadow: 5px 10px 8px 4px #a8a0a0;
 }
 
 .technology-container h1 {
@@ -6890,12 +6890,16 @@ html {
 
 .analyses .sub {
   display: grid;
-  background-color: #F5D39D;
+  background-color: #f5d39d;
   grid-template-columns: 100%;
   grid-template-rows: 84px auto;
   justify-content: center;
   overflow: hidden;
   border: 1px solid #536d6a;
+}
+
+.sub h2 {
+  z-index: 1;
 }
 
 .analyses .sub .colors-img,
@@ -7148,13 +7152,13 @@ html {
 .color9 {
   grid-column: 2/3;
   grid-row: 5/6;
-  background-color: #3fB89d;
+  background-color: #3fb89d;
 }
 
 .color10 {
   grid-column: 2/3;
   grid-row: 6/7;
-  background-color: #F4F2F1;
+  background-color: #f4f2f1;
 }
 
 @media screen and (max-width: 628px) {

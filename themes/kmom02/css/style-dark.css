@@ -6448,7 +6448,7 @@ code {
 }
 
 pre {
-  padding: 1em 1em;
+  padding: 1em;
   border: 1px solid #ccc;
   border-radius: 0.3em;
   background: #917971;
@@ -6665,7 +6665,7 @@ h6 {
 body {
   max-width: 100%;
   overflow-x: hidden;
-  background: #3A4045;
+  background: #3a4045;
   clear: both;
   min-height: 400px;
   margin-bottom: 150px;
@@ -6912,6 +6912,10 @@ img {
   border: 2px solid #917971;
 }
 
+.sub h2 {
+  z-index: 1;
+}
+
 .analyses .sub .colors-img,
 .analyses .sub .load-img,
 .analyses .sub .principles-img {
@@ -6921,7 +6925,7 @@ img {
 }
 .analyses .sub a {
   text-decoration: none;
-  color: rgb(177, 177, 177);
+  color: #212121;
   align-self: center;
 }
 .analyses .sub h2 {
@@ -7168,13 +7172,13 @@ img {
 .color9 {
   grid-column: 2/3;
   grid-row: 5/6;
-  background-color: #3fB89d;
+  background-color: #3fb89d;
 }
 
 .color10 {
   grid-column: 2/3;
   grid-row: 6/7;
-  background-color: #F4F2F1;
+  background-color: #f4f2f1;
 }
 
 @media screen and (max-width: 628px) {
