@@ -20,7 +20,7 @@ De webbplatser som jag har valt att analysera är:
 
 * 1177.se
 
-Jag har valt just de här tre webbplatserna för att jag ville jämföra organisationer i tre olika branscher, i detta fall e-handel, bank och vård. Syftet med webbplatserna är i grunden densamma - de vill förmedla tjänster och/eller varor.
+Jag har valt just de här tre webbplatserna för att jag ville jämföra organisationer i tre olika branscher, i detta fall e-handel, bank och vård. Syftet med webbplatserna är i grunden densamma - de vill förmedla tjänster, information och/eller varor.
 <br><br>
 Det som skiljer dem åt är vilka tidsperspektiv de arbetar med:
 
