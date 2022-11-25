@@ -1,0 +1,132 @@
+.website-analysis {
+    font-size: 21px;
+}
+
+.website-table {
+    display: grid;
+    max-width: 550px;
+    grid-template-columns: 400px 100px;
+    grid-template-rows: 60px repeat(5, 64.5px);
+    gap: 10px;
+    padding: 5px;
+    margin-bottom: 40px;
+}
+
+.website {
+    grid-column: 1 / 2;
+    grid-row: 1 / 2;
+}
+
+.color-palette {
+    grid-column: 2 / 3;
+    grid-row: 1 / 2;
+}
+
+.colors h3 {
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+.website-image {
+    grid-column: 1 / 2;
+    grid-row: span 5;
+}
+
+.amazon-img {
+    filter: grayscale(0%);
+}
+
+.screenshot {
+    filter: grayscale(0%);
+}
+
+.color6 {
+    grid-column: 2 / 3;
+    grid-row: 2 / 3;
+    background-color: #00005e;
+}
+
+.color7 {
+    grid-column: 2 / 3;
+    grid-row: 3 / 4;
+    background-color: #01019e;
+}
+
+.color8 {
+    grid-column: 2 / 3;
+    grid-row: 4 / 5;
+    background-color: #dbecff;
+}
+
+.color9 {
+    grid-column: 2 / 3;
+    grid-row: 5 / 6;
+    background-color: #3fb89d;
+}
+
+.color10 {
+    grid-column: 2 / 3;
+    grid-row: 6 / 7;
+    background-color: #f4f2f1;
+}
+
+@media screen and (max-width: 628px) {
+    .website-table {
+        max-width: 450px;
+        grid-template-columns: repeat(5, auto);
+        grid-template-rows: 60px repeat(4, auto) 60px 85.2px;
+        gap: 5px;
+        padding: 5px;
+        justify-content: center;
+        align-content: center;
+        margin: 0 auto 40px;
+    }
+
+    .website {
+        grid-column: span 5;
+        grid-row: 1 / 2;
+    }
+
+    .color-palette {
+        grid-column: span 5;
+        grid-row: 6 / 7;
+    }
+
+    .website-image {
+        grid-column: span 5;
+        grid-row: 2 / 6;
+        // width: 100%;
+    }
+
+    .color6 {
+        grid-column: 1 / 2;
+        grid-row: 7 / 8;
+    }
+
+    .color7 {
+        grid-column: 2 / 3;
+        grid-row: 7 / 8;
+    }
+
+    .color8 {
+        grid-column: 3 / 4;
+        grid-row: 7 / 8;
+    }
+
+    .color9 {
+        grid-column: 4 / 5;
+        grid-row: 7 / 8;
+    }
+
+    .color10 {
+        grid-column: 5 / 6;
+        grid-row: 7 / 8;
+    }
+
+    .screenshot {
+        width: 100%;
+    }
+}
+
+// LÄGG IN MEDIAQUERY FRÅN 628px
