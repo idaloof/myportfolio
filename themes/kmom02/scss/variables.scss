@@ -2,16 +2,16 @@
 
 /* BACKGROUND COLORS */
 // Body
-$bg-color-body: #E8FFF1;
+$bg-color-body: #e8fff1;
 
 // Code and pre
 $bg-color-code: #f5f5f5;
 
 // Header & footer (and html)
-$bg-color-head-foot: #93AB9C;
+$bg-color-head-foot: #93ab9c;
 
 // Divs and titles
-$bg-color-grid-div: #F5D39D;
+$bg-color-grid-div: #f5d39d;
 $bg-color-grid-title: rgba(249, 220, 201, 0.8);
 
 /* BORDER STYLE */
@@ -35,7 +35,7 @@ $font-color-rest: #333;
 
 /* OTHER COLORS */
 // Box shadow
-$box-shadow-color: 5px 10px 8px 4px #A8A0A0;
+$box-shadow-color: 5px 10px 8px 4px #a8a0a0;
 
 /* SPACING */
 $base-line-height: 1.4;
@@ -43,8 +43,5 @@ $base-font-size: 1.1em;
 $magic-number: $base-line-height * $base-font-size;
 
 /* OBSOLETE COLORS */
-$background-color: #93AB9C;
-$background-alternative-color: #E8FFF1;
-
-// Ljust tema: #93AB9C #E8FFF1 #B5F5CD, #F5D39D med inslag av kanske #A8A0A0
-// Mörkt tema: #917971 #452B23 #3A4045 med inslag av kanske #91666C
+$background-color: #93ab9c;
+$background-alternative-color: #e8fff1;

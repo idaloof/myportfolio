@@ -2,7 +2,7 @@
 
 /* BACKGROUND COLORS */
 // Body
-$bg-color-body: #3A4045;
+$bg-color-body: #3a4045;
 
 // Code and pre
 $bg-color-code: #917971;
@@ -29,6 +29,7 @@ $border-style-double-divs: 2px double #56362c;
 // Titles
 $font-color-titles: #212121;
 $font-color-titles-light: rgb(72, 71, 71);
+$font-color-h2-report: rgb(255, 120, 142);
 
 // Code and pre
 $font-color-code: #201e1e;
@@ -46,8 +47,5 @@ $base-font-size: 1.1em;
 $magic-number: $base-line-height * $base-font-size;
 
 /* OBSOLETE VARIABLES */
-$background-color: #93AB9C;
-$background-alternative-color: #E8FFF1;
-
-// Ljust tema: #93AB9C #E8FFF1 #B5F5CD, #F5D39D med inslag av kanske #A8A0A0
-// Mörkt tema: #917971 #452B23 #3A4045 med inslag av kanske #91666C
+$background-color: #93ab9c;
+$background-alternative-color: #e8fff1;
