@@ -156,15 +156,33 @@ Färgschemat som jag får bäst matchning på är triad färgschema (om det hete
 Jag vill säga att rött är en flyktig och stressig färg, vilket går emot det 1177 har som syfte, nämligen att människor vänder sig till deras hemsida i allra första hand för information istället för att ringa till dem eller till närmaste vårdcentral. 
 
 Jag hade personligen gått mer åt det blåa hållet, då det är någonting jag också förknippar med vård (blåa scrubs) och steril miljö.
+___________
+SLUTSATS
+
+Slutsatsen av min analys är att hemsidorna använder sig av, framförallt, färger för att tjäna syftet med hemsidan. Även om inte alla lyckas, enligt mig.
+
+Amazons syfte är att tjäna så mycket som möjligt på kundens besök, det är inte säkert att kunden återkommer inom snar framtid, hur nöjda kunderna än är med besöket och produkterna.
+
+De har en tydlig header med stark kontrast mellan färgerna. Sidbodyn är fylld med erbjudanden som visas i vit bakgrund med delar i accentfärgerna (rosa, grönt). Accentfärgerna är söta/trevliga och framkallar inte direkt en känsla av "MÅSTE HA NU" hos kunden. Möjligtvis lyckas de behaga ögat med dessa färger, vilket ger en längre besökstid.
+___________
+Nordeas syfte är att visa på professionalitet. Det som sticker ut på webbplatsen, likt de två andra webbplatserna, är call-to-action-boxar. 
+
+De genomgående blåa färgerna ska trigga logik och trygghet hos besökarna. Webbplatsens syfte är inte att locka kvar kunden under en längre tid, bankerna är välmedvetna om att deras produkter inte är de sexigaste på marknaden. De jobbar alltså med en kort tidshorisont för bankbesöket, men genom att signalera fyrkantighet och rationalitet kan de lyckas nå en lång kundlojaliteten.
+___________
+Även om 1177 inte lyckas med färgvalen enligt mig, så är det åtminstone inga skrikiga färger och kontrasten på hemsidan är ok enligt color contrast-testet på https://color.a11y.com/.
+
+Syftet med hemsidan måste vara lättillgänglig information, för att besökarna ska få sina svar där och inte belasta 1177 eller vårdcentralerna med telefonsamtal eller fysiska besök.
+
+Den starka röda färgen får i alla fall mig att känna stress, men det vägs upp av ljusa nyanser av rött och även blått. Det ger en ok helhetskänsla och jag klarar av att navigera omkring utan att lämna webbplatsen innan jag hittat svar på mina frågor.
 
 <h2 class="h2">Referenser</h2>
 -----------------------
 
-www.amazon.se (besökt senast 2022-11-25)
+https://www.amazon.se (besökt senast 2022-11-27)
 
-www.nordea.se (besökt senast 2022-11-25)
+https://www.nordea.se (besökt senast 2022-11-27)
 
-www.1177.se (besökt senast 2022-11-25)
+https://www.1177.se (besökt senast 2022-11-27)
 
 <h2 class="h2">Övrigt</h2>
 -----------------------
