@@ -6,7 +6,7 @@ Description: This is my test page.
 TESTING
 ==========================
 
-<div style="width: 600px; height: 100px; background-color: black; box-sizing: content-box">
+<!-- <div style="width: 600px; height: 100px; background-color: black; box-sizing: content-box">
 </div>
 <br>
 <div style="width: 100%; height: 100px; background-color: blue; box-sizing: content-box">
@@ -17,7 +17,7 @@ TESTING
 <br>
 <div style="width: 100vw; height: 100px; background-color: green; box-sizing: border-box">
 </div>
-<br>
+<br> -->
 
 <!-- ![Picture of runners in movement - red tone](image/movement.jpg?w=500&f=colorize,60,-20,-20,0)
 
@@ -31,6 +31,12 @@ TESTING
 <!-- PNG original 3.0 MB -->
 <!-- ![Picture of runners in movement - inverted colors](%assets_url%/img/movement.png) -->
 
-![Picture of runners in movement - inverted colors](image/movement.jpg?w=500&q=70)
+<!-- ![Picture of runners in movement - inverted colors](image/movement.jpg?w=500&q=70)
 
-![Picture of runners in movement - inverted colors](image/movement.png?w=500)
+![Picture of runners in movement - inverted colors](image/movement.png?w=500) -->
+
+<picture>
+    <source media="(min-width: 801px)" srcset="image/movement.jpg?w=700" alt="width 700">
+    <source media="(min-width: 601px)" srcset="image/movement.jpg?w=500" alt="width 500">
+    <img src="image/movement.jpg?w=400" alt="sheep" alt="width 400">
+</picture>
