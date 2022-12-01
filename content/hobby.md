@@ -14,4 +14,4 @@ For this reason I have music playing whenever possible and my greatest object in
 
 In about 12-15 years, I hope that I can take my whole family to a techno festival. How about that?!
 
-![Color waves representing the feeling when listening to techno](%assets_url%/img/techno.png)
+![Color waves representing the feeling when listening to techno](image/techno.png?w=400&save-as=jpg&area=70,0,0,0&f=colorize,20,50,0,0)

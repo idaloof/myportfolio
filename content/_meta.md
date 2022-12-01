@@ -1,5 +1,5 @@
 ---
-Logo: assets/img/web.png
+Logo: image/web.png?save-as=jpg&f=colorize,40,50,0,0
 Tagline: My portfolio
 Social:
     - title: This websites gitHub repository.
@@ -8,10 +8,10 @@ Social:
     - title: MDN CSS documentation
       url: https://developer.mozilla.org/en-US/docs/Web/CSS
       icon: fab fa-css3
-    - title: Recorded lectures 2022/2023 available on Youtube.
+    - title: Recorded lectures 2022/2023.
       url: https://www.youtube.com/playlist?list=PLKtP9l5q3ce_WleXainMoaxfhsIBgVvQo
       icon: fab fa-youtube
-    - title: Dark Mode
+    - title: Swap dark/light theme.
       url: ?action=theme
       icon: fas fa-moon
     - title: Destroy Session
