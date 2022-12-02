@@ -25,7 +25,7 @@ Jag har, som i föregående rapport (Colors), valt att analysera tre webbplatser
 <h2 class="h2">Metod</h2>
 -----------------------
 
-Jag har använt mig av <a href="https://developer.chrome.com/docs/devtools/">Chrome dev tools</a> för att mäta sidornas laddningstid och även <a href="https://pagespeed.web.dev/?utm_source=psi&utm_medium=redirect">Pagespeed Insights</a>
+Jag har använt mig av <a href="https://developer.chrome.com/docs/devtools/">Chrome dev tools</a> för att mäta sidornas laddningstid och även <a href="https://pagespeed.web.dev/?utm_source=psi&utm_medium=redirect">Pagespeed Insights</a> för att mäta och analysera webbplatsernas laddningstider.
 
 <h2 class="h2">Resultat</h2>
 -----------------------
@@ -39,16 +39,20 @@ Dokumentera dina resultat från din studie. Berätta vad du kom fram till, vilka
 
 Vi har ett företag, IKEA, som har gjort sig välkänt och välbesökt tack vare sina billiga priser och förhållandevis stabila produkter.
 
-Ett annat företag vars syfte är att sprida nyheter inom fotbollsvärlden.
+Ett annat företag vars syfte är att sprida nyheter från fotbollsvärlden.
 
 <h2 class="h2">Referenser</h2>
 -----------------------
+
+UNDERSÖKTA WEBBPLATSER:
 
 https://www.ikea.se (Besökt senast xxx)
 
 https://www.fotbollskanalen.se (Besök senast xxx)
 
 https://www.blocket.se (Besökt senast xxx)
+
+ANALYSVERKTYG:
 
 https://developer.chrome.com/docs/devtools/ (Besök senast xxx)
 
