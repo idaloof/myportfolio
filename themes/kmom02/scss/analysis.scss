@@ -112,22 +112,20 @@
     }
 }
 
-.embed-google-sheet {
+.embed-googlesheet {
     position: relative;
     padding-bottom: 56.25%;
     height: 0;
     overflow: auto;
-    max-width: 550px;
-    max-height: 100%; 
 }
 
-.embed-google-sheet iframe,
-.embed-google-sheet object,
-.embed-google-sheet embed {
+.embed-googlesheet iframe,
+.embed-googlesheet object,
+.embed-googlesheet embed {
     position: absolute;
     top: 0;
     left: 0;
-    width: 100%;
+    width: 91.7%;
     height: 100%;
     margin: 0;
     padding: 0;
