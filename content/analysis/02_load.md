@@ -30,7 +30,7 @@ Jag har använt mig av <a href="https://developer.chrome.com/docs/devtools/">Chr
 <h2 class="h2">Resultat</h2>
 -----------------------
 <div class="embed-googlesheet">
-    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQetyXUZ6JK050eOBamdGVrCPqFrJFRTJR2IsvYIhcfqNfj6u8FIbPhxyjvhZ5p0MKd0YF_quRikIbo/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;embedded=true"></iframe>
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQetyXUZ6JK050eOBamdGVrCPqFrJFRTJR2IsvYIhcfqNfj6u8FIbPhxyjvhZ5p0MKd0YF_quRikIbo/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;style=embed&amp;range=a1%3Ag21&amp;chrome=false"></iframe>
 </div>
 Dokumentera dina resultat från din studie. Berätta vad du kom fram till, vilka resultat du hittade och observerade.
 
