@@ -6877,6 +6877,7 @@ html {
     display: none;
   }
 }
+/** COLOR REPORT */
 .main-analysis {
   margin: 0 auto;
   box-sizing: border-box;
@@ -6978,9 +6979,11 @@ html {
     padding: 1vh;
   }
 }
+/** LOAD REPORT */
 .embed-googlesheet {
   position: relative;
   padding-bottom: 56.25%;
+  margin-left: 5%;
   height: 0;
   overflow: auto;
 }
@@ -6991,13 +6994,117 @@ html {
   position: absolute;
   top: 0;
   left: 0;
-  width: 91.7%;
-  height: 100%;
+  width: 92.8%;
+  height: 78.3%;
   margin: 0;
   padding: 0;
   border: none;
 }
 
+.website-table-load {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 10% 10% 60%;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  gap: 10px;
+  place-items: center;
+  border: 2px double #536d6a;
+  background-color: #bbe2c9;
+}
+
+.website-title {
+  grid-column: 2/3;
+  grid-row: 1/2;
+  color: #333;
+}
+
+.ikea {
+  grid-column: 1/2;
+  grid-row: 2/3;
+}
+
+.fotbollskanalen {
+  grid-column: 2/3;
+  grid-row: 2/3;
+}
+
+.blocket {
+  grid-column: 3/4;
+  grid-row: 2/3;
+}
+
+.ikea-image {
+  grid-column: 1/2;
+  grid-row: 3/4;
+  place-items: center;
+}
+
+.fotbollskanalen-image {
+  grid-column: 2/3;
+  grid-row: 3/4;
+}
+
+.blocket-image {
+  grid-column: 3/4;
+  grid-row: 3/4;
+}
+
+.website-title h3 {
+  font-size: 1.65em;
+}
+
+.ikea h3,
+.fotbollskanalen h3,
+.blocket h3 {
+  font-size: 1.43em;
+  color: #333;
+}
+
+@media screen and (max-width: 1136px) {
+  .website-table-load {
+    display: grid;
+    grid-template-columns: 10% 1fr;
+    grid-template-rows: auto auto auto auto;
+    margin: 0 auto;
+    margin-bottom: 30px;
+  }
+  .website-title {
+    grid-column: span 2;
+    grid-row: 1/2;
+  }
+  .ikea {
+    grid-column: 1/2;
+    grid-row: 2/3;
+  }
+  .fotbollskanalen {
+    grid-column: 1/2;
+    grid-row: 3/4;
+  }
+  .blocket {
+    grid-column: 1/2;
+    grid-row: 4/5;
+  }
+  .ikea-image {
+    grid-column: 2/3;
+    grid-row: 2/3;
+    place-items: center;
+  }
+  .fotbollskanalen-image {
+    grid-column: 2/3;
+    grid-row: 3/4;
+  }
+  .blocket-image {
+    grid-column: 2/3;
+    grid-row: 4/5;
+  }
+  .ikea h3,
+  .fotbollskanalen h3,
+  .blocket h3 {
+    font-size: 1.87em;
+    transform: rotate(-90deg);
+  }
+}
 .website-analysis {
   font-size: 21px;
 }
