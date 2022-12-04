@@ -27,6 +27,18 @@ Jag har, som i föregående rapport (Colors), valt att analysera tre webbplatser
 
 Jag har använt mig av <a href="https://developer.chrome.com/docs/devtools/">Chrome dev tools</a> för att mäta sidornas laddningstid och även <a href="https://pagespeed.web.dev/?utm_source=psi&utm_medium=redirect">Pagespeed Insights</a> för att mäta och analysera webbplatsernas laddningstider.
 
+Pagespeed Insights har gett mig information om hur väl webbplatserna lyckas mobilt och desktop på följande parametrar:
+
+* Performance (prestanda)
+
+* Accessibility (användbarhet)
+
+* Best practices (kodhälsa)
+
+* SEO (sökmotoroptimering)
+
+Chrome developer tools har har gett mig information om webbplatsernas antal resurser, totala storlek och laddningstid (både för DOM-trädet och inläsning).
+
 <h2 class="h2">Resultat</h2>
 -----------------------
 
