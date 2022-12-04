@@ -133,7 +133,7 @@
     height: 78.3%;
     margin: 0;
     padding: 0;
-    border: none;
+    border: 0;
 }
 
 .website-table-load {
@@ -198,11 +198,11 @@
 
 @media screen and (max-width: 1136px) {
     .website-table-load {
-    display: grid;
-    grid-template-columns: 10% 1fr;
-    grid-template-rows: auto auto auto auto;
-    margin: 0 auto;
-    margin-bottom: 30px;
+        display: grid;
+        grid-template-columns: 10% 1fr;
+        grid-template-rows: auto auto auto auto;
+        margin: 0 auto;
+        margin-bottom: 30px;
     }
 
     .website-title {
@@ -245,6 +245,6 @@
     .fotbollskanalen h3,
     .blocket h3 {
         font-size: $base-font-size * 1.7;
-        transform:rotate(-90deg);
+        transform: rotate(-90deg);
     }
 }
