@@ -248,3 +248,48 @@
         transform: rotate(-90deg);
     }
 }
+
+/** DESIGN PRINCIPLES REPORT */
+
+@mixin base-container {
+    width: 860px;
+    gap: 40px;
+    @media screen and (max-width: 902px) {
+        display: flex;
+        flex-direction: column;
+        width: 60vw;
+    }
+}
+
+@mixin principles-container {
+    width: 860px;
+    @media screen and (max-width: 902px) {
+        display: flex;
+        flex-direction: column;
+        width: 60vw;
+    }
+}
+
+@mixin home-sub {
+    @media screen and (max-width: 902px) {
+        width: 60vw;
+    }
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    @include base-container;
+}
+
+.principles-elements {
+    display: flex;
+    flex-direction: row;
+    @include principles-container;
+}
+
+.homepage,
+.subpage {
+    width: 50%;
+    @include home-sub;
+}
