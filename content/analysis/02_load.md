@@ -49,7 +49,7 @@ Chrome developer tools har har gett mig information om webbplatsernas antal resu
     <div class="blocket"><h3>Blocket</h3></div>
     <div class="ikea-image"><img src="%base_url%/image/ikea.png?w=300&save-as=jpg"></div>
     <div class="fotbollskanalen-image"><img src="%base_url%/image/fotbollskanalen.png?w=300&save-as=jpg"></div>
-    <div class="blocket-image"><img src="%base_url%/image/blocket.png?width=300&save-as=jpg"></div>
+    <div class="blocket-image"><img src="%base_url%/image/blocket.png?w=300&save-as=jpg"></div>
 </div>
 
 <div class="embed-googlesheet">
