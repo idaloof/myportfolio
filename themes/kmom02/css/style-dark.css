@@ -7119,6 +7119,45 @@ img {
     transform: rotate(-90deg);
   }
 }
+/** DESIGN PRINCIPLES REPORT */
+.container {
+  display: flex;
+  flex-direction: row;
+  width: 860px;
+  gap: 40px;
+}
+@media screen and (max-width: 902px) {
+  .container {
+    display: flex;
+    flex-direction: column;
+    width: 60vw;
+  }
+}
+
+.principles-elements {
+  display: flex;
+  flex-direction: row;
+  width: 860px;
+}
+@media screen and (max-width: 902px) {
+  .principles-elements {
+    display: flex;
+    flex-direction: column;
+    width: 60vw;
+  }
+}
+
+.homepage,
+.subpage {
+  width: 50%;
+}
+@media screen and (max-width: 902px) {
+  .homepage,
+  .subpage {
+    width: 60vw;
+  }
+}
+
 .website-analysis {
   font-size: 21px;
   color: rgb(255, 120, 142);
