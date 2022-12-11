@@ -6,25 +6,30 @@ Description: This is a page about me.
 About me
 ==========================
 
-Hi!
-My name is Martin Fooladi and I am a first year student at BTH.
-
-![Picture of Martin Fooladi](image/me.jpg?q=10&w=250&f=gaussian_blur&f=mean_removal&convolve=draw)
-
-Before starting this education, I worked as a teacher in physics and mathematics for 7th, 8th and 9th grade students at Vimarskolan in Vimmerby.
-
-I really loved my work, but at the same time I was yearning for an education that was more technical, which would coincide with my abilities and my personality even more.
-
-Vimmerby is where I currently reside with my family: Evelina (partner), Rio (7 years) and Nora (4 years).
-
-Apart from being a full time student, I also work as the IT guy at Folkhögskolan here in Vimmerby.
-It's a great part time job, because I get to help people and I don't need to bring my work home.
-
-In my spare time I make awesome vegan dishes and make techno music. Techno music works well in all situations. 
-
-* Cooking
-* Dancing
-* Working
-* Studying 
-
-You name it! Drums and bass for the win! Unz.
+<div class="about-container">
+    <div class="second-circle">Life principles</div>
+    <div class="third-circle">
+        <div>Be curious.</div>
+        <img src="%base_url%/image/cosmos.jpg?w=180&area=50,0,0,0" alt="Picture showing part of the cosmos" class="index-img">
+    </div>
+    <div class="fourth-circle">
+        <div>Stay hungry.</div>
+        <img src="%base_url%/image/food.jpg?w=180&area=30,0,20,0" alt="Picture showing vegan food" class="index-img">
+    </div>
+    <div class="fifth-circle">
+        <div>Be kind.</div>
+        <img src="%base_url%/image/photo5.jpg?q=100&w=180&aro&area=10,0,47,0" alt="Martin's family" class="index-img">
+    </div>
+    <div class="sixth-circle">
+        <div>Listen to techno.</div>
+        <img src="%base_url%/image/techno.jpg?w=180&aro&area=20,20,10,20" alt="Picture showing techno party" class="index-img">
+    </div>
+    <div class="seventh-circle">
+        <div>Dance.</div>
+        <img src="%base_url%/image/dance.jpg?w=180&aro&area=27,5,20,5" alt="Picture showing dancer on beach" class="index-img">
+    </div>
+    <div class="eighth-circle">
+        <div>Get a squad.</div>
+        <img src="%base_url%/image/friends.jpg?w=180&aro&area=20,20,10,20" alt="Picture showing friends" class="index-img">
+    </div>
+</div>
