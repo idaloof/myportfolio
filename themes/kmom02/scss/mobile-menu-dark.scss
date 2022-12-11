@@ -11,8 +11,23 @@ nav ul {
     font-size: 20px;
 }
 
+@keyframes pulsate {
+    to {
+        transform: scale(0.92);
+    }
+}
+
 nav ul li {
     padding: 0 1em;
+}
+
+nav ul li:hover {
+    animation-name: pulsate;
+    animation-duration: 0.35s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    color: $bg-color-grid-div;
 }
 
 nav a,
