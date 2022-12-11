@@ -6,10 +6,19 @@ main {
 
 main p {
     a {
-        color: $font-color-rest;
+        color: $font-color-rest !important;
     }
 
     a:visited {
-        color: $font-color-rest;
+        color: $font-color-rest !important;
+    }
+}
+
+
+td,
+li {
+    a,
+    a:visited {
+        color: $font-color-rest !important;
     }
 }

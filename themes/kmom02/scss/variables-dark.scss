@@ -1,5 +1,7 @@
 /* Variables */
 
+/* ---------------------------------------------- */
+
 /* BACKGROUND COLORS */
 // Body
 $bg-color-body: #3a4045;
@@ -14,6 +16,11 @@ $bg-color-head-foot: #917971;
 $bg-color-grid-div: #2d2224;
 $bg-color-grid-title: rgba(249, 220, 201, 0.8);
 
+// Index
+$bg-index-divs: rgb(45, 34, 36, 0.6);
+
+/* ---------------------------------------------- */
+
 /* BORDER STYLE */
 // Code and pre
 $border-style-code: 1px solid #ccc;
@@ -25,9 +32,11 @@ $border-style-head-foot: #333;
 $border-style-solid-divs: 2px solid #917971;
 $border-style-double-divs: 2px double #56362c;
 
+/* ---------------------------------------------- */
+
 /* FONT COLORS */
 // Titles
-$font-color-titles: #212121;
+$font-color-titles: #000;
 $font-color-titles-light: rgb(72, 71, 71);
 $font-color-h2-report: rgb(255, 120, 142);
 
@@ -37,14 +46,20 @@ $font-color-code: #201e1e;
 // Rest
 $font-color-rest: rgb(177, 177, 177);
 
+/* ---------------------------------------------- */
+
 /* OTHER COLORS */
 // Box shadow
 $box-shadow-color: 5px 10px 8px 10px #292929;
+
+/* ---------------------------------------------- */
 
 /* SPACING */
 $base-line-height: 1.4;
 $base-font-size: 1.1em;
 $magic-number: $base-line-height * $base-font-size;
+
+/* ---------------------------------------------- */
 
 /* OBSOLETE VARIABLES */
 $background-color: #93ab9c;
