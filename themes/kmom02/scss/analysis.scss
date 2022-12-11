@@ -277,19 +277,22 @@
 }
 
 .container {
+    @include base-container;
+
     display: flex;
     flex-direction: row;
-    @include base-container;
 }
 
 .principles-elements {
+    @include principles-container;
+
     display: flex;
     flex-direction: row;
-    @include principles-container;
 }
 
 .homepage,
 .subpage {
-    width: 50%;
     @include home-sub;
+
+    width: 50%;
 }
