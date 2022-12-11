@@ -18,7 +18,7 @@ About me
     </div>
     <div class="fifth-circle">
         <div>Be kind.</div>
-        <img src="%base_url%/image/photo5.jpg?q=100&w=180&aro&area=10,0,47,0" alt="Martin's family" class="index-img">
+        <img src="%base_url%/image/photo5.JPG?w=180&aro&area=10,0,47,0" alt="Martins family" class="index-img">
     </div>
     <div class="sixth-circle">
         <div>Listen to techno.</div>
