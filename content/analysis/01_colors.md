@@ -49,7 +49,7 @@ FÄRGVAL
 <div class="website-table colors">
     <div class="website"><h3>Webbplats</h3></div>
     <div class="color-palette"><h3>Färgpalett</h3></div>
-    <div class="website-image"><img src="%assets_url%/img/amazon.jpg" class="amazon-img"></div>
+    <div class="website-image"><img src="%assets_url%/img/amazon.jpg" class="amazon-img" alt="Amazon webpage screenshot"></div>
     <div class="color1"></div>
     <div class="color2"></div>
     <div class="color3"></div>
@@ -62,7 +62,7 @@ Amazon använder sig genomgående av en vit bakgrundsfärg och i övrigt måttli
 
 När jag analyserar färgvalen i Adobe Color Wheel, märker jag att det är med den mörkgrå-blåa färgen som basfärg (#222f3) som jag lyckas hitta den bästa matchningen.
 
-<img src="%assets_url%/img/adobe-amazon.jpg" class="screenshot" width="60%">
+<img src="%assets_url%/img/adobe-amazon.jpg" class="screenshot" width="60%" alt="Amazon color palette">
 
 TYPOGRAFI
 
@@ -75,7 +75,7 @@ FÄRGVAL
 <div class="website-table colors">
     <div class="website"><h3>Webbplats</h3></div>
     <div class="color-palette"><h3>Färgpalett</h3></div>
-    <div class="website-image"><img src="%assets_url%/img/nordea.jpg" class="amazon-img"></div>
+    <div class="website-image"><img src="%assets_url%/img/nordea.jpg" class="amazon-img" alt="Nordea webpage screenshot"></div>
     <div class="color6"></div>
     <div class="color7"></div>
     <div class="color8"></div>
@@ -88,7 +88,7 @@ Nordea använder genomgående en äggskalsvit bakgrundsfärg. I övrigt är det 
 
 När jag analyserar färgvalen i Adobe Color Wheel, märker jag att det är med den andra färgen i färgpaletten som basfärg (#01019e) som jag lyckas hitta den bästa matchningen.
 
-<img src="%assets_url%/img/adobe-nordea.jpg" class="screenshot" width="500px">
+<img src="%assets_url%/img/adobe-nordea.jpg" class="screenshot" width="500px" alt="Nordea color palette">
 
 TYPOGRAFI
 
@@ -106,7 +106,7 @@ FÄRGVAL
 <div class="website-table colors">
     <div class="website"><h3>Webbplats</h3></div>
     <div class="color-palette"><h3>Färgpalett</h3></div>
-    <div class="website-image"><img src="%assets_url%/img/1177.jpg" class="amazon-img"></div>
+    <div class="website-image"><img src="%assets_url%/img/1177.jpg" class="amazon-img" alt="1177 webpage screenshot"></div>
     <div class="color11"></div>
     <div class="color12"></div>
     <div class="color13"></div>
@@ -116,7 +116,7 @@ FÄRGVAL
 
 1177 gör det lätt för sig och använder till stor del nyanser av rött på sin hemsida. När jag testar mig fram i Adobe Color Wheel hittar jag en matchning på den mörkröda färgen som basfärg (#6a003), med blått och ljusare rött som accentfärger (om en nu kan säga det om rött till mörkrött).
 
-<img src="%assets_url%/img/adobe-1177.jpg" class="screenshot" width="500px">
+<img src="%assets_url%/img/adobe-1177.jpg" class="screenshot" width="500px" alt="1177 color palette">
 
 TYPOGRAFI
 

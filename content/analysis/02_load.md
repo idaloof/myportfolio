@@ -47,13 +47,13 @@ Chrome developer tools har har gett mig information om webbplatsernas antal resu
     <div class="ikea"><h3>IKEA</h3></div>
     <div class="fotbollskanalen"><h3>Fotbollskanalen</h3></div>
     <div class="blocket"><h3>Blocket</h3></div>
-    <div class="ikea-image"><img src="%base_url%/image/ikea.png?w=300&save-as=jpg"></div>
-    <div class="fotbollskanalen-image"><img src="%base_url%/image/fotbollskanalen.png?w=300&save-as=jpg"></div>
-    <div class="blocket-image"><img src="%base_url%/image/blocket.png?w=300&save-as=jpg"></div>
+    <div class="ikea-image"><img src="%base_url%/image/ikea.png?w=300&save-as=jpg" alt="Ikea webpage screenshot"></div>
+    <div class="fotbollskanalen-image"><img src="%base_url%/image/fotbollskanalen.png?w=300&save-as=jpg" alt="Fotbollskanalen webpage screenshot"></div>
+    <div class="blocket-image"><img src="%base_url%/image/blocket.png?w=300&save-as=jpg" alt="Blocket webpage screenshot"></div>
 </div>
 
 <div class="embed-googlesheet">
-    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQetyXUZ6JK050eOBamdGVrCPqFrJFRTJR2IsvYIhcfqNfj6u8FIbPhxyjvhZ5p0MKd0YF_quRikIbo/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;style=embed&amp;range=a1%3Ag16&amp;chrome=false"></iframe>
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQetyXUZ6JK050eOBamdGVrCPqFrJFRTJR2IsvYIhcfqNfj6u8FIbPhxyjvhZ5p0MKd0YF_quRikIbo/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;style=embed&amp;range=a1%3Ag16&amp;chrome=false" title="Page load data for Ikea, Fotbollskanalen and Blocket"></iframe>
 </div>
 
 En analys av resultatet följer i nästa avsnitt.

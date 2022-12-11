@@ -3,7 +3,7 @@ Title: Design principle analysis
 Description: My design principle analysis report.
 ---
 
-Framträdande designprinciper - en analys av tre webbplatser
+Designprinciper - en analys av tre webbplatser
 =======================
 
 Uppgiften går ut på att analysera tre personsidor och i vilken mån de är trogna designprinciperna. I analysen ingår även en undersökning av min egen portfölj utifrån samma metod.
@@ -182,7 +182,7 @@ Därmed skulle jag kunna förbättra min sida avsevärt. Följande designprincip
 
 * Linjer: jobba mer med linjer för att t.ex. bryta loss header och footer från main.
 
-* Skala: använda skala (olika storlekar för mina element) för att få en bättre komposition av min sida.
+* Textur: använda textur för att skapa lite djup på sidan och komma ifrån den platta ursprungsdesignen.
 
 * Rörelse: placera element på olika höjd i relation till varandra för att skapa en känsla av rörelse samt vid hover kanske få element att skifta style eller röra på sig.
 
