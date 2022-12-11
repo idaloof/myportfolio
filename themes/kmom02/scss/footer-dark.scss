@@ -1,12 +1,16 @@
 /* Page footer */
 footer {
-    padding: 1.4%;
+    padding: $magic-number;
     background-color: $bg-color-head-foot;
     bottom: 0;
     width: 100%;
     color: $font-color-titles;
     // overflow: auto;
     // position: fixed;
+}
+
+footer p {
+    color: $font-color-titles;
 }
 
 .social {

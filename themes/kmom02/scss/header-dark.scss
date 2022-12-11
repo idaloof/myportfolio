@@ -1,5 +1,5 @@
 .site-header {
-    padding: 2vw;
+    padding: $magic-number;
     font-size: 1.5vw;
 }
 
@@ -38,4 +38,14 @@ header .site-header {
     .logo img {
         max-width: 140px;
     }
+}
+
+.line-header {
+    height: 0.5vh;
+    background-color: $bg-color-grid-div;
+}
+
+.line-footer {
+    height: 0.5vh;
+    background-color: $bg-color-grid-div;
 }
