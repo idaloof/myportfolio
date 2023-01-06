@@ -116,12 +116,21 @@ Technokulturen är en väldigt inbjudande och accepterande kultur, där alla sor
 
 Lekfullheten finns inte bara i valen av färg utan även hur färgerna används i kombination med varandra för att skapa det abstrakta, som alltid på sätt och vis kommer att vara okänt för människan och någonting vi alltid kommer att försöka förstå oss på och konkretisera, till och med kvantisera.
 
-Temat, likt technon, är inte nödvändigtvis greppbart eller helt logiskt, men det ger en varm känsla och en nostalgikänsla som i att "hitta tillbaka till barnet i dig" samt "våga vara annorlunda och våga vara konstig".
+Färgtemat, likt technon, är inte nödvändigtvis greppbart eller helt logiskt, men det ger en varm känsla och en nostalgikänsla som i att "hitta tillbaka till barnet i dig" samt "våga vara annorlunda och våga vara konstig".
+
+Fonten för rubrikerna är rund och fonten för brödtexten är mer kantig. Tillsammans kompletterar de varandra tycker jag, då rubrikerna med rundheten blir mer synliga och brödtexten smälter bättre in.
+
+För en sån här typ av webbplats hade jag inte förväntat mig mer. Typografin i övrigt är väl uppbyggd, med bra radavstånd och letter-spacing.
 
 <h3>Tema 2 (det mörkare temat)</h3>
 Det andra temat är av mörkare karaktär och färgerna är inte lika spridda på färghjulet som i första temat. Detta ger en mer lugn känsla än det första temat. Accentfärgerna (och även den ljusare blå färgen) ger en bra kontrast mot det mörkblåa, vilket skapar ett djup på sidan tillsammans med bakgrundsillustrationerna. 
 
 Känslan som jag personligen lämnas med är nyfikenhet. Det finns någonting där, ett djup, som bör utforskas. Mörkare färger skapar en mystik och det finns någonting både skrämmande och spännande i det. Kan vi hitta trygghet i det? Ja, lättast är att möta mörkret tillsammans. Med lite techno och dans, går det utmärkt.
+
+Det mörkare temat har en font för rubrikerna där vissa bokstäver har snirklar i ändarna. Det påminner lite om snirklarna som syns på kyrkogårdsgrindar eller grindar till "spökhus". Det passar temat tycker jag, då det är ett mörkare och mer mystiskt tema, jämför med det ljusare temat.
+
+<h3>Sammanfattning</h3>
+Sammanfattningsvis tycker jag att båda teman gör artisten och genren väl. Webbplatsen verkar både vara en inbjudan till att delta och en informationssida om Art Ist och hennes projekt och kommande spelningar. Trots spridningen på färghjulet i det ljusare temat, används färgerna måttligt och minimalistiskt vilket går väl ihop med techno som musikgenre.
 _______________
 
 Referenser
